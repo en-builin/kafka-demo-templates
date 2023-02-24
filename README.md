@@ -20,4 +20,4 @@ cd /usr/bin
 kafka-topic --bootstrap-server localhost:9092 --create --topic test_topic --partitions 3 --replication-factor 1
 ```
 
-Open project in IntelliJ or any other IDE and run every demo class you want to test. Use classes code as snippets for your projects.
+Open project in IntelliJ or any other IDE and run every demo class you want to test. Use the code examples as snippets for your projects.
